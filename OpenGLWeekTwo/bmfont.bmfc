@@ -1,0 +1,59 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Comic Sans MS
+fontFile=
+charSet=0
+fontSize=38
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+
+# output file
+outWidth=256
+outHeight=256
+outBitDepth=8
+fontDescFormat=0
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+chars=93,106,109,162-163,165,182,195,198-204,210-211,215-220,229,232-237,247,251-253,256-383,402,506-511
+chars=536-539,567,710-711,713,728-733,894,900-906,908,910-929,931-974,1025-1036,1038-1103,1105-1116,1118
+chars=1119,1168-1169,7808-7813,7922-7923,8211-8213,8215-8222,8224-8226,8230,8240,8242-8243,8249-8250,8252
+chars=8254,8260,8355-8356,8359,8364,8706,8710,8719,8721-8722,8725,8729-8730,8734,8747,8776,8800,8804-8805
+chars=9472,9474,9484,9488,9492,9496,9633,9642-9643,9674,9679,9702,9834,64257-64258
+
+# imported icon images
